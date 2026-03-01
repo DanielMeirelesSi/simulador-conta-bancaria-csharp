@@ -2,7 +2,7 @@
 
 Esse projeto foi desenvolvido com o objetivo de praticar conceitos de Programação Orientada a Objetos (POO), especialmente encapsulamento, herança e organização de código.
 
-Minha proposta foi criar um pequeno sistema de console que simula operações bancárias básicas, incluindo uma conta corrente e um cofrinho separado, com comportamento semelhante ao de um banco real.
+Minha ideia foi criar um pequeno sistema de console que simula operações bancárias básicas, incluindo uma conta corrente e um "cofrinho" separado, com comportamento semelhante ao de um banco real.
 
 ---
 
@@ -49,18 +49,19 @@ SimuladorContaBancaria/
 
 ---
 
-## ▶ Como Executar
+## Como Executar
 
 É necessário ter o .NET SDK instalado.
 
-No terminal, dentro da pasta do projeto, execute:
+No terminal, dentro da pasta do projeto, basta executar o comando: dotnet run
 
-```
-dotnet run
-```
+## Demonstração
 
----
+### Menu Principal
+![Menu](assets/print%201.png)
 
-## Objetivo
+### Consulta de Saldos
+![Saldos](assets/print%202.png)
 
-O principal objetivo deste projeto foi transformar conceitos vistos em aula de POO em algo prático, aplicando regras reais de movimentação financeira em um sistema simples, organizado e coerente.
+### Simulação de Rendimento
+![Simulação](assets/print%203.png)

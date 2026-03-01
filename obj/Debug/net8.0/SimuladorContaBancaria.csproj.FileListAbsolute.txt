@@ -12,3 +12,4 @@ C:\Users\Daniel Meireles\OneDrive\Área de Trabalho\SimuladorContaBancaria-CShar
 C:\Users\Daniel Meireles\OneDrive\Área de Trabalho\SimuladorContaBancaria-CSharp\SimuladorContaBancaria\obj\Debug\net8.0\SimuladorContaBancaria.pdb
 C:\Users\Daniel Meireles\OneDrive\Área de Trabalho\SimuladorContaBancaria-CSharp\SimuladorContaBancaria\obj\Debug\net8.0\SimuladorContaBancaria.genruntimeconfig.cache
 C:\Users\Daniel Meireles\OneDrive\Área de Trabalho\SimuladorContaBancaria-CSharp\SimuladorContaBancaria\obj\Debug\net8.0\ref\SimuladorContaBancaria.dll
+C:\Users\Daniel Meireles\OneDrive\Área de Trabalho\SimuladorContaBancaria-CSharp\SimuladorContaBancaria\obj\Debug\net8.0\SimuladorContaBancaria.sourcelink.json
